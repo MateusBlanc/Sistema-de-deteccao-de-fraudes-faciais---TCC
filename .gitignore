@@ -1,0 +1,15 @@
+﻿venv/
+dataset/
+__pycache__/
+*.npy
+historico_tcc/
+testes_tcc/real/
+testes_tcc/fake/
+*.zip
+*.tar.gz
+.kaggle/
+kaggle.json
+screenshots/
+.vscode/
+.idea/
+*.pyc
