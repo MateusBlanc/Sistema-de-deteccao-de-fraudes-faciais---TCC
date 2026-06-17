@@ -194,11 +194,11 @@ class Avaliador:
 
         ax.text(-0.35, 0.5, "VN", color="#2ecc71", fontsize=11,
                 fontweight="bold", transform=ax.transAxes)
-        ax.text(0.82,  0.5, "VP", color="#2ecc71", fontsize=11,
+        ax.text(0.82,  0.5, "FP", color="#2ecc71", fontsize=11,
                 fontweight="bold", transform=ax.transAxes)
         ax.text(-0.35, 0.0, "FN", color="#e74c3c", fontsize=11,
                 fontweight="bold", transform=ax.transAxes)
-        ax.text(0.82,  0.0, "FP", color="#e74c3c", fontsize=11,
+        ax.text(0.82,  0.0, "VP", color="#e74c3c", fontsize=11,
                 fontweight="bold", transform=ax.transAxes)
 
         if criar_fig:
